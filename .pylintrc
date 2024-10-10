@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+enable = E,W,R
+
+[REPORTS]
+output-format = text
+
